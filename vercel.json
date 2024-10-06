@@ -13,3 +13,12 @@
     }
   ]
 }
+{
+  "redirects": [
+    {
+      "source": "/v3/entry/Ashlyn213/my_story/main",
+      "destination": "/v3/entry/Ashlyn213/my_story/main",
+      "permanent": false
+    }
+  ]
+}
